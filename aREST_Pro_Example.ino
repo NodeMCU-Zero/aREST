@@ -24,11 +24,11 @@ PubSubClient client(espClient);
 aREST rest = aREST(client);
 
 // aREST Pro key (that you can get at dashboard.arest.io)
-char * key = "axxpm3yv10njwwb5"; // API Key ( please check account.png) 
+char * key = "axxpmnjwwb5"; // API Key ( please check account.png) 
 
 // WiFi parameters
-const char* ssid = "feelingHot"; // your wifi SSID 
-const char* password = "nrl1633n"; // above SSID password 
+const char* ssid = "fet"; // your wifi SSID 
+const char* password = "12345678"; // above SSID password 
 
 
 // Functions
